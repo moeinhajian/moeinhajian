@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+
+# Hi, I'm Moein. Welcome to me GitHub page. 🙂
+I'm a chemical engineer researcher in accelerated materials discovery who also enjoys open-source scientific software development.
+
+</div>
+
 
 <!--
 **moeinhajian/moeinhajian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
