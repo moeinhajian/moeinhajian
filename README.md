@@ -1,10 +1,12 @@
 <div align="center">
 
 # Hi, I'm Moein. 🙂
-## Welcome to my GitHub page.
-I'm a chemical engineer researcher in accelerated materials design who also enjoys open-source scientific software development.
+## Welcome to my GitHub page
 
 </div>
+I'm a chemical engineer researcher in accelerated materials design who also enjoys open-source scientific software development.
+
+
 
 
 <!--
