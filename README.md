@@ -6,7 +6,7 @@
 </div>
 I'm a chemical engineer researcher in accelerated materials design who also enjoys open-source scientific software development.
 
-
+![GitHub Snake](./snake.svg)
 
 
 <!--
