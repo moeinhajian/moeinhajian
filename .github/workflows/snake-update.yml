@@ -1,5 +1,6 @@
 name: Update my GitHub Snake
-
+permissions:
+  contents: write
 on:
   # every 12 hours
   schedule:
@@ -18,14 +19,14 @@ jobs:
           persist-credentials: true
 
       # 2) generate the snake.svg
-      - uses: Platane/snk@v3
-        id: snake
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          # auto‑fill in your username
           github_user_name: ${{ github.repository_owner }}
-          # output to snake.svg at repo root
           outputs: |
-            snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # 3) commit & push back to main
       - name: Commit updated snake
