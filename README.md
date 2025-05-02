@@ -6,6 +6,9 @@
 </div>
 I'm a chemical engineer researcher in accelerated materials design who also enjoys open-source scientific software development.
 
+
+
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moeinhajian/moeinhajian/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moeinhajian/moeinhajian/output/github-contribution-grid-snake.svg">
