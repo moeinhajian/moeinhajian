@@ -21,10 +21,11 @@ I'm a Ph.D. candidate in Chemical Engineering, where I work at the intersection 
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| `QSAR-CoCrystal-Screening` | ML-based screening for co-crystal formers (RF, SVM, DNN), with successful experimental validation | 🧪 Published in *CrystEngComm* |
-| `Partitioning-Predictor` | QSAR models for polymer-water partitioning of hydrophobic compounds | 🌍 Published in *Chemosphere* |
-| `DFT-MOF-Membrane` | Modeling MOF–polymer interfaces via DFT and MD to predict separation performance | 🔬 Under review at *Nature Chemical Engineering* |
-| `Salt-Formulation-Workflow` | Automated HTS workflow for salt screening and data-driven formulation design (Agios internship) | 🧫 Publication in progress |
+| `QSAR-CoCrystal-Screening` | ML-based screening for co-crystal formers (RF, SVM, DNN), with successful experimental validation | 📈 Published in [*CrystEngComm*](https://doi.org/10.1039/D3CE01252B) |
+| `Partitioning-Predictor` | QSAR models for polymer-water partitioning of hydrophobic compounds | 📈 Published in [*Chemosphere*](https://doi.org/10.1016/j.chemosphere.2024.143781) |
+| `DFT-MOF-Membrane` | Modeling MOF–polymer interfaces via DFT and MD to predict separation performance | 🔬 Under review at [*Nature Chemical Engineering*](https://doi.org/10.21203/rs.3.rs-4732861/v1) |
+| `OSN-Polymer-swelling-Modeling` | Molecular modeling of polymer swelling and transport in organic solvent nanofiltration membranes (collab with MIT) | 🧪 Publication in progress |
+| `Salt-Formulation-Workflow` | Automated HTS workflow for salt screening and data-driven formulation design (Agios internship) | 🧫 Manuscript in preparation |
 
 ---
 
