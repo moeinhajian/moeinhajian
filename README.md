@@ -21,11 +21,11 @@ I'm a Ph.D. candidate in Chemical Engineering, where I work at the intersection 
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| `QSAR-CoCrystal-Screening` | ML-based screening for co-crystal formers (RF, SVM, DNN), with successful experimental validation | 📈 Published in [*CrystEngComm*](https://doi.org/10.1039/D3CE01252B) |
-| `Partitioning-Predictor` | QSAR models for polymer-water partitioning of hydrophobic compounds | 📈 Published in [*Chemosphere*](https://doi.org/10.1016/j.chemosphere.2024.143781) |
+| `QSAR-CoCrystal-Screening` | ML-based screening for co-crystal formers (RF, SVM, DNN), with successful experimental validation | 📚 Published in [*CrystEngComm*](https://doi.org/10.1039/D3CE01252B) |
+| `Partitioning-Predictor` | QSAR models for polymer-water partitioning of hydrophobic compounds | 📚 Published in [*Chemosphere*](https://doi.org/10.1016/j.chemosphere.2024.143781) |
 | `DFT-MOF-Membrane` | Modeling MOF–polymer interfaces via DFT and MD to predict separation performance | 🔬 Under review at [*Nature Chemical Engineering*](https://doi.org/10.21203/rs.3.rs-4732861/v1) |
-| `OSN-Polymer-swelling-Modeling` | Molecular modeling of polymer swelling and transport in organic solvent nanofiltration membranes (collab with MIT) | 🧪 Publication in progress |
-| `Salt-Formulation-Workflow` | Automated HTS workflow for salt screening and data-driven formulation design (Agios internship) | 🧫 Manuscript in preparation |
+| `OSN-Polymer-swelling-Modeling` | Molecular modeling of polymer swelling and transport in organic solvent nanofiltration membranes | 📃 Publication in progress |
+| `Salt-Formulation-Workflow` | Automated HTS workflow for salt screening and data-driven formulation design (Agios internship) | 📝 Manuscript in preparation |
 
 ---
 
@@ -38,7 +38,7 @@ I'm a Ph.D. candidate in Chemical Engineering, where I work at the intersection 
 `Python` · `RDKit` · `Scikit-learn` · `TensorFlow` · `Pandas` · `Matplotlib` · `QSAR modeling` · `DOE` · `Bayesian Optimization`
 
 **Process & Materials Tools**  
-`ASPEN Plus` · `COMSOL Multiphysics` · `ChemDraw` · `Gaussian` · `VASP`
+`ASPEN Plus` · `COMSOL Multiphysics` · `ChemDraw` · `Gaussian` · `DynoChem`
 
 
 ---
@@ -53,7 +53,7 @@ I'm a Ph.D. candidate in Chemical Engineering, where I work at the intersection 
 
 ## 📫 Contact
 
-- 📧 Email: moein.hajian@ttu.edu  
+- 📧 [Email](moein.hajian@ttu.edu) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/moein-hajian/)  
 - 🔬 [Google Scholar](https://scholar.google.com/citations?user=Ub4kgSkAAAAJ&hl=en)
 - 📍 Based in Cambridge, MA
