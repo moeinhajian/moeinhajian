@@ -6,14 +6,8 @@
 
 I'm a Ph.D. candidate in Chemical Engineering, where I work at the intersection of computational materials science, machine learning, and pharmaceutical materials development. I apply molecular modeling, quantum calculations, and predictive analytics to accelerate drug and materials development.
 
----
 
-## 🔬 Research Interests
-
-- **Computational Chemistry**: DFT, MD, and cheminformatics for drug development and materials science
-- **Machine Learning**: QSAR modeling, predictive models for solubility, toxicity, and bioavailability
-- **Process Modeling & Scale-Up**: Salt/co-crystal screening, Kinetic mapping, formulation optimization, route scouting, and automated development pipelines for small-molecule APIs
-- **Separation & Membrane Modeling**: Polymer-MOF mixed-matrix membranes (MMMs), Organic Solvent Nanofiltration (OSN) membranes, and transport simulation
+Feel free to explore the repositories or reach out if you're interested in collaboration!
 
 ---
 
@@ -26,6 +20,15 @@ I'm a Ph.D. candidate in Chemical Engineering, where I work at the intersection 
 | `DFT-MOF-Membrane` | Modeling MOF–polymer interfaces via DFT and MD to predict separation performance | 🔬 Under review at [*Nature Chemical Engineering*](https://doi.org/10.21203/rs.3.rs-4732861/v1) |
 | `OSN-Polymer-swelling-Modeling` | Molecular modeling of polymer swelling and transport in organic solvent nanofiltration membranes | 📃 Publication in progress |
 | `Salt-Formulation-Workflow` | Automated HTS workflow for salt screening and data-driven formulation design (Agios internship) | 📝 Manuscript in preparation |
+
+---
+
+## 🔬 Research Interests
+
+- **Machine Learning**: Automation, QSAR modeling, predictive models for solubility, toxicity, and bioavailability
+- **Process Modeling & Scale-Up**: Salt/co-crystal screening, Kinetic mapping, formulation optimization, route scouting, and automated development pipelines for small-molecule APIs
+- **Computational Chemistry**: DFT, MD, and cheminformatics for drug development and materials science
+- **Separation & Membrane Modeling**: Polymer-MOF mixed-matrix membranes (MMMs), Organic Solvent Nanofiltration (OSN) membranes, and transport simulation
 
 ---
 
@@ -53,13 +56,11 @@ I'm a Ph.D. candidate in Chemical Engineering, where I work at the intersection 
 
 ## 📫 Contact
 
-- 📧 [Email](moein.hajian@ttu.edu) 
+- 📧 Email: moein.hajian@ttu.edu 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/moein-hajian/)  
 - 🔬 [Google Scholar](https://scholar.google.com/citations?user=Ub4kgSkAAAAJ&hl=en)
 - 📍 Based in Cambridge, MA
 
-
-Feel free to explore the repositories or reach out if you're interested in collaboration!
 
 
 
